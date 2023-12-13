@@ -1,0 +1,709 @@
+{
+    "hello": "Hello",
+    "@hello": {
+      "description": "The conventional newborn programmer greeting",
+      "type": "text"
+    },
+
+    "welcome": "Welcome",
+    "@welcome": {
+      "description": "Welcome",
+      "type": "text"
+    },
+
+    "homePage": "Home",
+    "@homePage": {
+      "description": "Title for home page",
+      "type": "text"
+    },
+
+    "explorePage": "Explore",
+    "@explorePage": {
+      "description": "Title for explore page",
+      "type": "text"
+    },
+
+    "searchPage": "Search",
+    "@searchPage": {
+      "description": "Title for search page",
+      "type": "text"
+    },
+
+    "profilePage": "Profile",
+    "@profilePage": {
+      "description": "Title for profile page item",
+      "type": "text"
+    },
+
+    "manual": "Manual",
+    "@manual": {
+      "description": "Profile page item title for manual",
+      "type": "text"
+    },
+
+    "favorite": "Favorite",
+    "@favorite": {
+      "description": "Profile page item title for favorite",
+      "type": "text"
+    },
+
+    "modelRetraining": "Retrain AI model",
+    "@modelRetraining": {
+      "description": "Profile page item title for model retraining",
+      "type": "text"
+    },
+
+    "retrainingModel": "Retraining AI model in progress",
+    "@retrainingModel": {
+      "description": "Profile page item title for model retraining",
+      "type": "text"
+    },
+
+    "settings": "Settings",
+    "@settings": {
+      "description": "Profile page item title for settings",
+      "type": "text"
+    },
+
+    "fqa": "FQA",
+    "@fqa": {
+      "description": "Profile page item title for fqa",
+      "type": "text"
+    },
+
+    "contactUs": "Contact Us",
+    "@contactUs": {
+      "description": "Profile page item title for contact",
+      "type": "text"
+    },
+
+    "selectTheme": "Select Theme",
+    "@selectTheme": {
+      "description": "Setting page item title for theme mode select",
+      "type": "text"
+    },
+
+    "themeOption": "Theme Mode",
+    "@themeOption": {
+      "description": "Setting page item title for theme mode select",
+      "type": "text"
+    },
+    
+    "lightMode": "Light Mode",
+    "@lightMode": {
+      "description": "Theme mode select title for light mode",
+      "type": "text"
+    },
+
+    "darkMode": "Dark Mode",
+    "@darkMode": {
+      "description": "Theme mode select title for dark mode",
+      "type": "text"
+    },
+
+    "selectLanguage": "Select Language",
+    "@language": {
+      "description": "Setting page item title for language select",
+      "type": "text"
+    },
+
+    "languageOption": "Language",
+    "@languageOption": {
+      "description": "Setting page item title for language select",
+      "type": "text"
+    },
+
+    "tchinese": "繁體中文",
+    "@tchinese": {
+      "description": "Language select item title",
+      "type": "text"
+    },
+
+    "schinese": "簡體中文",
+    "@schinese": {
+      "description": "Language select item title",
+      "type": "text"
+    },
+
+    "english": "English",
+    "@english": {
+      "description": "Language select item title",
+      "type": "text"
+    },
+
+    "followSystem": "Follow System",
+    "@followSystem": {
+      "description": "Follow system options title",
+      "type": "text"
+    },
+
+    "followSystem2": "Follow System",
+    "@followSystem2": {
+      "description": "Follow system options title 2",
+      "type": "text"
+    },
+
+    "terms": "Terms & Conditions",
+    "@terms": {
+      "description": "Terms and condition title",
+      "type": "text"
+    },
+
+    "about": "About",
+    "@about": {
+      "description": "Setting page about title",
+      "type": "text"
+    },
+
+    "labor": "Laboratories",
+    "@labor": {
+      "description": "Setting page laboratories title",
+      "type": "text"
+    },
+
+    "login": "Login",
+    "@login": {
+      "description": "Login title",
+      "type": "text"
+    },
+
+    "logout": "Sign Out",
+    "@logout": {
+      "description": "Logout title",
+      "type": "text"
+    },
+
+    "signUp": "Sign Up",
+    "@signUp": {
+      "description": "Logout title",
+      "type": "text"
+    },
+
+    "switchAccount": "Switch Account",
+    "@switchAccount": {
+      "description": "Switch account title",
+      "type": "text"
+    },
+
+    "warning": "Warning",
+    "@warning": {
+      "description": "Title for warning",
+      "type": "text"
+    },
+
+    "email": "Email",
+    "@email": {
+      "description": "Title for email",
+      "type": "text"
+    },
+
+    "password": "Password",
+    "@password": {
+      "description": "Title for password",
+      "type": "text"
+    },
+
+    "rePassword": "Re-enter Password",
+    "@rePassword": {
+      "description": "Title for re-enter password text field",
+      "type": "text"
+    },
+
+    "forgotPassword": "Forgot Password",
+    "@forgotPassword": {
+      "description": "Title for forgot password button",
+      "type": "text"
+    },
+
+    "or": "or",
+    "@or": {
+      "description": "Title for or divided",
+      "type": "text"
+    },
+
+    "noAccount": "Don't have an account?",
+    "@noAccount": {
+      "description": "Text for no account",
+      "type": "text"
+    },
+
+    "createAccount": "Create a new account",
+    "@createAccount": {
+      "description": "Text for create account button",
+      "type": "text"
+    },
+
+    "resetPassword": "Reset Password",
+    "@resetPassword": {
+      "description": "Text for reset password button",
+      "type": "text"
+    },
+
+    "agreeText": "By Signing up you agree to our",
+    "@agreeText": {
+      "description": "Text for agree terms",
+      "type": "text"
+    },
+
+    "haveAccount": "Already have an account?",
+    "@haveAccount": {
+      "description": "Text for already have account",
+      "type": "text"
+    },
+
+    "selectImage": "Select Image",
+    "@selectImage": {
+      "description": "Title for select image",
+      "type": "text"
+    },
+
+    "gallery": "Gallery",
+    "@gallery": {
+      "description": "Title for gallery",
+      "type": "text"
+    },
+
+    "camera": "Camera",
+    "@camera": {
+      "description": "Title for camera",
+      "type": "text"
+    },
+
+    "yes": "Yes",
+    "@yes": {
+      "description": "Yes",
+      "type": "text"
+    },
+
+    "no": "No",
+    "@no": {
+      "description": "No",
+      "type": "text"
+    },
+
+    "confirm": "Confirm",
+    "@confirm": {
+      "description": "Confirm",
+      "type": "text"
+    },
+
+    "cancel": "Cancel",
+    "@cancel": {
+      "description": "Cancel",
+      "type": "text"
+    },
+
+    "upload": "Upload",
+    "@upload": {
+      "description": "Title for upload button",
+      "type": "text"
+    },
+
+    "locate": "Locate",
+    "@locate": {
+      "description": "Title for locate button",
+      "type": "text"
+    },
+
+    "search": "Search",
+    "@search": {
+      "description": "Hint for search text field",
+      "type": "text"
+    },
+
+    "laborLongText": "The following features are in the experimental stage",
+    "@laborLongText": {
+      "description": "Long text content for labor welcome text",
+      "type": "text"
+    },
+
+    "refreshText": "Pull to Refresh",
+    "@pullToRefresh": {
+      "description": "Pull to refresh text",
+      "type": "text"
+    },
+
+    "refreshReadyText": "Ready to refresh",
+    "@refreshReadyText": {
+      "description": "Load more text",
+      "type": "text"
+    },
+
+    "refreshingText": "Refreshing...",
+    "@refreshingText": {
+      "description": "Load more text",
+      "type": "text"
+    },
+
+    "refreshedText": "Refreshed",
+    "@refreshedText": {
+      "description": "Load more text",
+      "type": "text"
+    },
+
+    "loadMoreText": "Load more",
+    "@loadMoreText": {
+      "description": "Load more text",
+      "type": "text"
+    },
+    
+    "loadReadyText": "Load ready",
+    "@loadReadyText": {
+      "description": "Load ready text",
+      "type": "text"
+    },
+    
+    "loadingText": "Loading",
+    "@loadingText": {
+      "description": "Loading text",
+      "type": "text"
+    },
+
+    "loadedText": "Load completed",
+    "@loadedText": {
+      "description": "Load completed text",
+      "type": "text"
+    },
+
+    "noMoreText": "No more",
+    "@noMoreText": {
+      "description": "No more text",
+      "type": "text"
+    },
+
+    "emailRequired": "Email is required",
+    "@emailRequired": {
+      "description": "Text for email validator",
+      "type": "text"
+    },
+
+    "passwordRequired": "Password is required",
+    "@passwordRequired": {
+      "description": "Text for password validator",
+      "type": "text"
+    },
+
+    "passwordNoMatch": "Passwords do not match",
+    "@passwordNoMatch": {
+      "description": "Text for password validator",
+      "type": "text"
+    },
+
+    "emailValid": "Enter a valid email address",
+    "@emailValid": {
+      "description": "Text for email validator",
+      "type": "text"
+    },
+
+    "passwordValid": "Password must be at least 8 digits long",
+    "@passwordValid": {
+      "description": "Text for password validator",
+      "type": "text"
+    },
+
+    "minPasswordValid": "Must have at least one number",
+    "@MinPasswordValid": {
+      "description": "Text for password validator",
+      "type": "text"
+    },
+
+    "languageChanged": "Language Changed",
+    "@languageChanged": {
+      "description": "Title for change language",
+      "type": "text"
+    },
+
+    "restartTakeEffect": "You may restart to take effect",
+    "@restartTakeEffect": {
+      "description": "Text for restart app",
+      "type": "text"
+    },
+
+    "loginSuccess": "Login successful",
+    "@loginSuccess": {
+      "description": "Toast text for login success",
+      "type": "text"
+    },
+
+    "pressAvatarToLogin": "Login",
+    "@pressAvatarToLogin": {
+      "description": "Title for profile login button",
+      "type": "text"
+    },
+
+    "changeAvatar": "Change Avatar",
+    "@changeAvatar": {
+      "description": "Text for avatar option dialog title",
+      "type": "text"
+    },
+
+    "noMoreInfo": "No more information available",
+    "@noMoreInfo": {
+      "description": "Text for no more information",
+      "type": "text"
+    },
+
+    "treeScientificName": "Scientific Name",
+    "@treeScientificName": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeCommonName": "Common Name",
+    "@treeCommonName": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeSpecialFeatures": "Special Features",
+    "@treeSpecialFeatures": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeToLearnMore": "To Learn More",
+    "@treeToLearnMore": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeCharacteristics": "Characteristics",
+    "@treeCharacteristics": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeTableFamily": "Family",
+    "@treeTableFamily": {
+      "description": "Title for detail page table",
+      "type": "text"
+    },
+
+    "tableHeight": "Height",
+    "@tableHeight": {
+      "description": "Title for detail page table",
+      "type": "text"
+    },
+
+    "tableNatureLeaf": "Nature of Leaf",
+    "@tableNatureLeaf": {
+      "description": "Title for detail page table",
+      "type": "text"
+    },
+
+    "tableBranch": "Branch",
+    "@tableBranch": {
+      "description": "Title for detail page table",
+      "type": "text"
+    },
+
+    "tableBark": "Bark",
+    "@tableBark": {
+      "description": "Title for detail page table",
+      "type": "text"
+    },
+
+    "treeLeaf": "Leaf",
+    "@treeLeaf": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeFlower": "Flower",
+    "@treeFlower": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "treeFruit": "Fruit",
+    "@fruit": {
+      "description": "Title for detail page",
+      "type": "text"
+    },
+
+    "faqText": "Dear user, our FAQ section can help you find the answer that you want faster",
+    "@faqText": {
+      "description": "Title for FAQ page",
+      "type": "text"
+    },
+
+    "signInText": "Enter your Email address and Password for Sign In ;)",
+    "@signInText": {
+      "description": "Long text for login page",
+      "type": "text"
+    },
+
+    "createAccountText": "Create Account",
+    "@createAccountText": {
+      "description": "Text for create account",
+      "type": "text"
+    },
+
+    "signUpText": "Enter your Email and Password for sign up",
+    "@signUpText": {
+      "description": "Long text for sign up",
+      "type": "text"
+    },
+
+    "forgotText": "Enter your email address and we will sent you a reset instructions",
+    "@forgotText": {
+      "description": "Long text for forgot password page",
+      "type": "text"
+    },
+
+    "modelUpdated": "Model updated",
+    "@modelUpdated": {
+      "description": "Text for model retraining toast message",
+      "type": "text"
+    },
+
+    "modelUpdateFailed": "Fail to retrain model",
+    "@modelUpdateFailed": {
+      "description": "Text for model retraining toast message",
+      "type": "text"
+    },
+
+    "modelUpdatedText": "Successful to update model",
+    "@modelUpdatedText": {
+      "description": "Long text for model retraining toast message",
+      "type": "text"
+    },
+
+    "modelUpdateFailedText": "Due to lower accuracy or higher loss than the old one",
+    "@modelUpdateFailedText": {
+      "description": "Long text for model retraining toast message",
+      "type": "text"
+    },
+
+    "modelRetrainWarningText": "This action sends commands to the server to request training model, are you sure?",
+    "@modelRetrainWarningText": {
+      "description": "Long text for dialog warning message",
+      "type": "text"
+    },
+
+    "googleDrive": "Google Drive",
+    "@googleDrive": {
+      "description": "Title for google drive",
+      "type": "text"
+    },
+
+    "local": "Local",
+    "@local": {
+      "description": "Title for local",
+      "type": "text"
+    },
+
+    "contactUsText": "This will open an external APP to send emails to contact us",
+    "@contactUsText": {
+      "description": "Text for dialog contact us message",
+      "type": "text"
+    },
+
+    "dataLoading": "Loading data...",
+    "@dataLoading": {
+      "description": "Text for loading screen message",
+      "type": "text"
+    },
+
+    "callApiFailed": "Failed to call API",
+    "@callApiFailed": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "noApiAndNoLocalData": "Failed to call API & No local data",
+    "@noApiAndNoLocalData": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "loadLocalData": "Loading local data",
+    "@loadLocalData": {
+      "description": "Text message for notification",
+      "type": "text"
+    },
+
+    "loadDemoData": "Loading demo data",
+    "@loadDemoData": {
+      "description": "Text message for notification",
+      "type": "text"
+    },
+
+    "buyCoffee": "Buy you a coffee",
+    "@buyCoffee": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "stillBuyCoffee": "Buy you a coffee again",
+    "@stillBuyCoffee": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "networkUnavailable": "Network not available",
+    "@networkUnavailable": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "alienCutNetwork": "Aliens cut off the network",
+    "@alienCutNetwork": {
+      "description": "Error text message for notification",
+      "type": "text"
+    },
+
+    "loadDataFailed": "Failed to load data",
+    "@loadDataFailed": {
+      "description": "Error text message for loading data",
+      "type": "text"
+    },
+
+    "loadCoordinateFailed": "Failed to load coordinate",
+    "@loadCoordinateFailed": {
+      "description": "Error text message for loading data",
+      "type": "text"
+    },
+
+    "signOutSuccess": "Sign out successful",
+    "@signOutSuccess": {
+      "description": "Toast message for sign out",
+      "type": "text"
+    },
+
+    "confirmSignOutText": "Do you want to sign out with this account?",
+    "@confirmSignOutText": {
+      "description": "Text message for sign out confirm",
+      "type": "text"
+    },
+
+    "clickToGo": "Click to Go",
+    "@clickToGo": {
+      "description": "Text message for click button",
+      "type": "text"
+    },
+
+    "sendRetrainingFailed": "Failed to request AI Retraining",
+    "@sendRetrainingFailed": {
+      "description": "Text message for AI retraining",
+      "type": "text"
+    },
+
+    "taskInProgress": "There are already tasks in progress",
+    "@taskInProgress": {
+      "description": "Text message for AI retraining",
+      "type": "text"
+    },
+
+    "contactVTC": "Please contact cwht.ai.sys@gmail.com",
+    "@contactVTC": {
+      "description": "Text message for VTC contact",
+      "type": "text"
+    },
+
+    "serverError": "Server Error",
+    "@serverError": {
+      "description": "Text message for server error",
+      "type": "text"
+    }
+}
